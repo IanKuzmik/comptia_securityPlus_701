@@ -8,6 +8,7 @@ I've included main.py, which presents the data in quiz form. I used a beefier ve
 In addition to pretty much memorizing all this data, I scoured Youtube for practice question videos. Passed the exam on my first try with an 810.  
 
 I gladly accept Bitcoin tips at bc1qhjeewv2z4ct5zm3gv5wzkr4w3u7nfmcu6kqvc8
+
 Buy yourself a coffee instead though, you deserve it.
 
 Good luck on the exam!
